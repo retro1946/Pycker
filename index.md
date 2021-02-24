@@ -5,6 +5,8 @@
 
 [Wiki](https://github.com/RetroPlayerYT/Pycker/wiki)
 
+Pycker [YouTube preview](https://www.youtube.com/watch?v=GytBNy_zBt8)
+
 ---
 
 ## Source code
@@ -42,3 +44,8 @@ Pycker is basically Rundom (Another color picker I made) but better. Had problem
 ## Problems?
 
 [Report a problem!](https://github.com/RetroPlayerYT/Pycker/issues) You can also request features there.
+
+
+## Rating
+
+[It would be appreciated if you give a rating!](https://form.typeform.com/to/zCNaWfcZ)
